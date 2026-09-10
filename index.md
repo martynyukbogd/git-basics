@@ -26,7 +26,7 @@
 
 ## Мій сертифікат
 *скоро буде
-![Сертифікат курсу по Git](https://prom.ua/ua/p641735072-sertifikat.html)
+![Сертифікат курсу по Git](https://www.schoollife.org.ua/wp-content/uploads/2024/08/Sertyfikat-SHkilne-zhyttya.jpg)
 
 ## Джерела інформації
 * [Офіційна документація Git](https://git-scm.com/doc)
